@@ -42,3 +42,5 @@ var geojson = {
     }
   }]
 };
+
+//inside the properties:{} braket is where we can add tags for categorization and sorting.
