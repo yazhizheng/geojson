@@ -13,7 +13,7 @@
 
 
 
-//GeoJSON supports the following geometry types: Point, LineString, Polygon, MultiPoint, MultiLineString, and MultiPolygon. Geometric objects with additional properties are Feature objects. Sets of features are contained by FeatureCollection objects.
+//Geometric objects with additional properties are Feature objects. Sets of Features are contained by FeatureCollection objects.
 
 //example of FeatureCollection
 
