@@ -30,3 +30,6 @@
 }
 
 
+
+
+//Mapbox Note: If you have a large GeoJSON file, you may want to load it as an external source rather than adding it inline. You can do so by linking to its URL, if it's hosted remotely, or by using an AJAX call to load locally or from a third-party API.
